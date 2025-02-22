@@ -211,7 +211,7 @@ export const useUserData = (userId: string) => {
 This architecture combines Zustand's lightweight state management with React Query's powerful data synchronization, creating a robust foundation for complex applications. By strictly separating concerns and centralizing business logic in custom hooks, we achieve maintainable, testable, and scalable code that grows gracefully with your application's needs.
 
 ### **Output**  
-![Architecture Diagram](./readme-assets/product-listing.png)  
+![Output](./readme-assets/product-listing.png)  
 *Output of the example*
 
 ## Getting Started
