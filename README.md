@@ -3,6 +3,9 @@
 
 ---
 
+Here, I'll share my approach to creating a clean architecture with Zustand stores, custom hooks, React Query, and UI components. I’ll explore how to keep business logic in custom hooks, avoid mixing it with stores, and manage API calls effectively. My goal is to structure these layers in a **maintainable** way while ensuring **flexibility** and **separation of concerns**.
+
+
 ### **Core Technologies**  
 #### **Zustand** (State Management)  
 - 🚀 **Minimal Boilerplate**: Simple store creation with automatic re-renders  
