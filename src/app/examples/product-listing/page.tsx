@@ -1,7 +1,7 @@
 import ProductList from "@/examples/product-listing/ProductList";
 
-export default function Home() {
+export default function ProductListPage() {
   return (
-    <ProductList />
+   <ProductList />
   );
 }
